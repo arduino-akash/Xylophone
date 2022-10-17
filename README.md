@@ -10,4 +10,5 @@ The goal of this tutorial is to dive into a simple iOS recipe - how to play soun
 We will be making your first musical instrument! Music apps are so popular on the App Store that they even get their own category. So in this module, we’re going to make a colourful XyloPhone app. Get it? Ok, the jokes are bad, but remember, I only wrote the good ones... 
 
 
+![Simulator Screen Shot - iPhone 13 - 2022-10-17 at 14 09 32](https://user-images.githubusercontent.com/113594078/196130991-fad13a5a-9a0d-4211-b901-946de1ec8ba9.png)
 
